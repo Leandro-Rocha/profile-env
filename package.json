@@ -1,6 +1,6 @@
 {
   "name": "profile-env",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Have the same environment property for multiple profiles like DEV, TEST or PROD",
   "main": "lib/profile-env.js",
   "types": "lib/profile-env.d.ts",
